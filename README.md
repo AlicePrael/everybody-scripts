@@ -20,3 +20,4 @@ Collaborative coding! Our goal: To gain experience writing collaboratively writi
 * Shira Peltzman
 * Bonnie Gordon
 * Maggie Hughes
+* Alice Prael
